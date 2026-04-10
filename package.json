@@ -1,0 +1,26 @@
+{
+  "name": "chainstamp-protocol",
+  "version": "0.1.1",
+  "description": "Shared protocol metadata for the ChainStamp ecosystem.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "chainstamp",
+    "stacks",
+    "protocol",
+    "contracts"
+  ],
+  "author": "AdekunleBamz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK-Bit-Lab/chainstamp-protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AK-Bit-Lab/chainstamp-protocol/issues"
+  },
+  "homepage": "https://github.com/AK-Bit-Lab/chainstamp-protocol#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
